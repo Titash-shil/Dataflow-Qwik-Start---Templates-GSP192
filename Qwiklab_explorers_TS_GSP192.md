@@ -4,6 +4,9 @@
 
 * ### Run the following Commands in CloudShell
 ```
+export REGION=
+```
+```
 #!/bin/bash
 # Define color variables
 
